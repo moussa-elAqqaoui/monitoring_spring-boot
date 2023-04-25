@@ -1,8 +1,8 @@
 # Setting Up Prometheus and Grafana for a Spring Boot Application
 
-This demo project provides a sample setup for integrating Prometheus and Grafana with a Spring Boot application. This is intended to serve as a guide for developers who want to monitor and analyze their Spring Boot applications using these tools.
+This demo project provides a sample setup for integrating [Prometheus](https://prometheus.io/) and [Grafana](https://grafana.com/) with a Spring Boot application. This is intended to serve as a guide for developers who want to monitor and analyze their Spring Boot applications using these tools.
 
-For more details on how to set up Prometheus and Grafana for your Spring Boot application, please refer to [my blog post]().
+For more details on how to set up Prometheus and Grafana for your Spring Boot application, please refer to [my blog post](https://medium.com/@moussa.el39/setting-up-prometheus-and-grafana-for-a-spring-boot-application-a94e81d1da12).
 ## Getting Started
 
 To get started with this demo project, you will need to have the following tools installed:
