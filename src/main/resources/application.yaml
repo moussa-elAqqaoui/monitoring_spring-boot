@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: monitoring_spring-boot
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    metrics:
+      enabled: true
+    prometheus:
+      enabled: true
+server:
+  port: 8080
+
